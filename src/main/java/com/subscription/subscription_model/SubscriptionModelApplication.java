@@ -1,0 +1,13 @@
+package com.subscription.subscription_model;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SubscriptionModelApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SubscriptionModelApplication.class, args);
+	}
+
+}
